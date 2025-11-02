@@ -1,7 +1,7 @@
 ## 🧑🏻‍💻 Giovanni 
 **`Desenvolvedor Junior`**
 
-Eu me chamo Giovanni, tenho 18 anos e sou natural de São Paulo, atualmente estou cursando Análise e Desenvolvimento de Sistemas na FACENS. Gosto muito de aprender na prática e acredito muito na autodidata, principalmente hoje em dia com a facilidade de acesso à informação. Esse GitHub serve para mostrar meu progresso para mim mesmo e para outras pessoas que podem estar iniciando essa jornada igual eu.
+Eu me chamo Giovanni, tenho 19 anos e sou natural de São Paulo, atualmente estou cursando Análise e Desenvolvimento de Sistemas na FACENS. Gosto muito de aprender na prática e acredito muito na autodidata, principalmente hoje em dia com a facilidade de acesso à informação. Esse GitHub serve para mostrar meu progresso para mim mesmo e para outras pessoas que podem estar iniciando essa jornada igual eu.
 
 ---
 ### 🤖 Linguagens e Tecnologias que estou aprendendo
